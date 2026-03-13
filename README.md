@@ -19,8 +19,5 @@ Uma coleção de experimentos, exercícios e projetos práticos em Go para domin
 - /projects: Mini-aplicações (Uma CLI ou um servidor web simples).
 
 4. Como Executar
-- Para rodar um arquivo específico
--- go run main.go
-
-- Para rodar os testes
--- go test ./...
+- Para rodar um arquivo específico -> go run main.go
+- Para rodar os testes -> go test ./...
